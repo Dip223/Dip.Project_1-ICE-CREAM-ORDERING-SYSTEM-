@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1672551718 source:c:\users\lenovo\desktop\my all c program\nnnnnn\main.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"splash.h"
+
+1672551381 c:\users\lenovo\desktop\my all c program\nnnnnn\splash.h
+
